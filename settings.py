@@ -25,3 +25,8 @@ SPAWN_COOLDOWN = 2000
 
 SHOOT_COOLDOWN = 100   # 0.1 second delay between shots (in milliseconds)
 FLASH_DURATION = 50
+
+# settings.py
+# ... keep existing settings ...
+LEADERBOARD_FILE = "leaderboard.json"
+FONT_NAME = "arial" # Or a path to a custom .ttf file
